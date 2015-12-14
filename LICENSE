@@ -1,11 +1,20 @@
+<<<<<<< HEAD
               GNU GENERAL PUBLIC LICENSE
                 Version 3, 29 June 2007
+=======
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
+<<<<<<< HEAD
                      Preamble
+=======
+                            Preamble
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
@@ -68,7 +77,11 @@ patents cannot be used to render the program non-free.
   The precise terms and conditions for copying, distribution and
 modification follow.
 
+<<<<<<< HEAD
                 TERMS AND CONDITIONS
+=======
+                       TERMS AND CONDITIONS
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
 
   0. Definitions.
 
@@ -76,7 +89,11 @@ modification follow.
 
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
   "The Program" refers to any copyrightable work licensed under this
 License.  Each licensee is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
@@ -509,7 +526,11 @@ actual knowledge that, but for the patent license, your conveying the
 covered work in a country, or your recipient's use of the covered work
 in a country, would infringe one or more identifiable patents in that
 country that you have reason to believe are valid.
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
   If, pursuant to or in connection with a single transaction or
 arrangement, you convey, or propagate by procuring conveyance of, a
 covered work, and grant a patent license to some of the parties
@@ -618,9 +639,15 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
+<<<<<<< HEAD
               END OF TERMS AND CONDITIONS
 
      How to Apply These Terms to Your New Programs
+=======
+                     END OF TERMS AND CONDITIONS
+
+            How to Apply These Terms to Your New Programs
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
 
   If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
@@ -631,8 +658,13 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
+<<<<<<< HEAD
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
+=======
+    {one line to give the program's name and a brief idea of what it does.}
+    Copyright (C) {year}  {name of author}
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -652,7 +684,11 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
+<<<<<<< HEAD
     <program>  Copyright (C) <year>  <name of author>
+=======
+    {project}  Copyright (C) {year}  {fullname}
+>>>>>>> bfc782fbdf2f7489dd87591b98d08e9c8780579a
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
